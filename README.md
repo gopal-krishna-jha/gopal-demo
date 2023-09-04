@@ -1,3 +1,3 @@
 # gopal-demo
-This is my first git repository
-Author = gopal krishna
+This is my first git repository<br>
+Author = Gopal Krishna
